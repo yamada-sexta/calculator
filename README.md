@@ -1,5 +1,8 @@
 # 🧮 GTK3 Simple Calculator 🧮
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb98b270-265b-44fe-b719-339a74280811" />
+
+
 Welcome to the coolest, most vibe-coded calculator on the block! 😎 This is a simple, yet elegant, calculator built with C and the GTK3 toolkit.
 
 ## ✨ Features ✨
